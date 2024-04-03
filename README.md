@@ -1,1 +1,1 @@
-## This repository is for personal usage regarding the implementation of Large Language Models LLM
+## This repository is designated for personal usage, serving as a platform to practice the initialization and implementation of a Large Language Model (LLM).
